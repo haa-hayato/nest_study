@@ -6,6 +6,8 @@ type UserProps = {
     is_login: boolean;
 };
 
+
+
 export class User {
     public readonly id: number;
     public readonly name: string;
